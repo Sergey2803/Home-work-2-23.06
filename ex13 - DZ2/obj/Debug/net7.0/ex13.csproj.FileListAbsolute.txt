@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/bin/Debug/net7.0/ex13
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/bin/Debug/net7.0/ex13.deps.json
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/bin/Debug/net7.0/ex13.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/bin/Debug/net7.0/ex13.dll
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/bin/Debug/net7.0/ex13.pdb
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.dll
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/refint/ex13.dll
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.pdb
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ex13.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/2.3. Практическое занятие. Урок 2./ex13 - DZ2/obj/Debug/net7.0/ref/ex13.dll
